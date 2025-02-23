@@ -1,8 +1,10 @@
-### 👋 Hi there, I'm Taha Siraj!  
+<div align="center">
 
-🚀 **Frontend Developer | JavaScript Enthusiast**  
-💡 Passionate about **building sleek UIs** with **React, Tailwind CSS & MUI**  
-🎯 Focused on **problem-solving & web performance optimization**  
+### 👋 Hi there, I'm **Taha Siraj!**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Taha-Siraj&color=blue)  
+
+</div>
 
 ---
 
