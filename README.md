@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" >
 
-### 👋 Hi there, I'm **Taha Siraj!**  
+## 👋 Hi there, I'm **Taha Siraj!**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Taha-Siraj&color=blue)  
 
