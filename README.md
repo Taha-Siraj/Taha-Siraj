@@ -8,6 +8,13 @@
 
 ---
 
+## 📝 About Me  
+🚀 **Frontend Developer | JavaScript Enthusiast**  
+💡 Passionate about **building sleek UIs** with **React & Tailwind CSS**  
+🎯 Focused on **problem-solving & web performance optimization**  
+
+---
+
 ### 🛠️ Tech Stack & Skills  
 - 💻 **Languages:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -45,6 +52,22 @@
 ### 📊 GitHub Stats  
 ![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-Siraj&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Siraj&layout=compact&theme=radical)  
+
+---
+
+### 📊 Languages & Technologies  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
