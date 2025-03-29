@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="font-size: 30px" >👋 Hi there, I'm  </h1>
+<h1 style="font-size: 40px" >👋 Hi there, I'm Taha Siraj </h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&width=435&lines=Taha+Siraj!;Frontend+Developer!;JavaScript+Enthusiast!" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Taha-Siraj&color=blue)
