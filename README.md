@@ -1,15 +1,15 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  <h1>✨ Assalam-o-Alaikum! I'm Taha Siraj! ✨</h1>
+  <h1>✨I'm Taha Siraj! ✨</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=600&lines=Aspiring+MERN+Stack+Developer+🧑‍💻;JavaScript+Enthusiast+🚀;React+&+Next.js+Lover+❤️;Building+Full-Stack+Apps+🌐;Passionate+Problem+Solver+💡" alt="Typing SVG" />
 
   <br>
   
-  <h3>
-    👋 Hi, I'm Taha Siraj (he/him) from Pakistan 🇵🇰. I'm an enthusiastic and aspiring <b>MERN Stack Developer</b> currently honing my skills in building full-stack web applications. I love diving into both <b>Frontend</b> (React, Next.js, Tailwind) and <b>Backend</b> (Node.js, Express, MongoDB) development, and I'm passionate about creating interactive and efficient solutions. Join me on my journey to Code, Create, and Innovate! 🚀
-  </h3>
+  <p>
+    👋 Hi, I'm Taha Siraj (he/him) from Pakistan 🇵🇰. I'm an aspiring <b>MERN Stack Developer</b> currently honing my skills in building full-stack web applications. I love diving into both <b>Frontend</b> (React, Next.js, Tailwind) and <b>Backend</b> (Node.js, Express, MongoDB) development, and I'm passionate about creating interactive and efficient solutions. Join me on my journey to Code, Create, and Innovate! 🚀
+  </p>
 
   <br>
 
