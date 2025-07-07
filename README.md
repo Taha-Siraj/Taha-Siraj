@@ -2,6 +2,7 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   <h1>✨I'm Taha Siraj! ✨</h1>
+  
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=600&lines=Aspiring+MERN+Stack+Developer+🧑‍💻;JavaScript+Enthusiast+🚀;React+&+Next.js+Lover+❤️;Building+Full-Stack+Apps+🌐;Passionate+Problem+Solver+💡" alt="Typing SVG" />
 
