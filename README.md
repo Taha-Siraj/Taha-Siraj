@@ -2,12 +2,11 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   <h1>✨I'm Taha Siraj! ✨</h1>
-  
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=600&lines=Aspiring+MERN+Stack+Developer+🧑‍💻;JavaScript+Enthusiast+🚀;React+&+Next.js+Lover+❤️;Building+Full-Stack+Apps+🌐;Passionate+Problem+Solver+💡" alt="Typing SVG" />
 
   <br>
-  
+
   <p>
     👋 Hi, I'm Taha Siraj (he/him) from Pakistan 🇵🇰. I'm an aspiring <b>MERN Stack Developer</b> currently honing my skills in building full-stack web applications. I love diving into both <b>Frontend</b> (React, Next.js, Tailwind) and <b>Backend</b> (Node.js, Express, MongoDB) development, and I'm passionate about creating interactive and efficient solutions. Join me on my journey to Code, Create, and Innovate! 🚀
   </p>
@@ -16,25 +15,37 @@
 
   <img src="https://komarev.com/ghpvc/?username=Taha-Siraj&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Taha-Siraj Profile Views" />
   <img src="https://img.shields.io/github/followers/Taha-Siraj?label=Followers&style=social" alt="GitHub Followers"/>
-  
+
 </div>
 
----
 
-## 🚀 About Me
 
--   👨‍💻 **Role:** MERN Stack Developer (Learning & Growing!)
--   🎨 **Passion:** Building interactive, full-stack web applications.
--   🧠 **Focus:** Mastering the MERN Stack (MongoDB, Express.js, React, Node.js), Next.js & Web Animations.
--   💡 **Goal:** To become a proficient Full-Stack Developer and contribute to innovative projects.
 
----
 
-## 🛠️ My Tech Stack & Skills (Focusing on MERN)
+🚀 About Me
+
+•
+👨‍💻 Role: MERN Stack Developer (Learning & Growing!)
+
+•
+🎨 Passion: Building interactive, full-stack web applications.
+
+•
+🧠 Focus: Mastering the MERN Stack (MongoDB, Express.js, React, Node.js), Next.js & Web Animations.
+
+•
+💡 Goal: To become a proficient Full-Stack Developer and contribute to innovative projects.
+
+
+
+
+
+🛠️ My Tech Stack & Skills (Focusing on MERN)
 
 <div align="center">
 
-  ### 🌐 Frontend
+🌐 Frontend
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -47,14 +58,16 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-E10098?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 
-  ### 🔧 Backend & Database
+🔧 Backend & Database
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-  ### 🔥 Tools & Platforms
+🔥 Tools & Platforms
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -64,21 +77,7 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project                                    | Description                       | Tech Stack                                       | Link                                               |
-| ------------------------------------------ | --------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
-| 🎨 **NFT Clone** | Responsive NFT marketplace UI.    | `HTML`, `CSS`, `JavaScript`                      | [🔗 View Live](https://tahasiraj101.github.io/NFT-clone/) |
-| 🚨 **Tesla Clone** | Tesla website front-end replica.  | `HTML`, `CSS`, `JavaScript`                      | [🔗 View Live](#) *(Link Coming Soon)* |
-| 🌧 **Weather App** | Real-time weather forecast app.   | `React`, `API`                                   | [🔗 View Live](#) *(Link Coming Soon)* |
-| 💬 **Chat App** | Real-time chat application.       | `React`, `Firebase`                              | [🔗 View Repo](https://github.com/Taha-Siraj/Chat-App) |
-| 🌐 **Sidcup Animated** | Animated website using GSAP.      | `HTML`, `CSS`, `JavaScript`, `GSAP`              | [🔗 View Repo](https://github.com/Taha-Siraj/Sidcup-Animated-websites-) |
-
----
-
-## 📊 My GitHub Stats
+📊 My GitHub Stats
 
 <div align="center">
 
@@ -92,17 +91,21 @@
 
 </div>
 
----
 
-## 📈 Contribution Activity
+
+
+
+📈 Contribution Activity
 
 <div align="center">
   <img src="https://ghchart.rshah.org/Taha-Siraj" alt="Taha Siraj's Contribution Graph" />
 </div>
 
----
 
-## 🔗 Let's Connect!
+
+
+
+🔗 Let's Connect!
 
 <div align="center">
   <p>Feel free to reach out. I'm always open to learning, new opportunities, collaborations, or just a friendly chat!</p>
@@ -123,8 +126,11 @@
   </a>
 </div>
 
----
+
+
+
 
 <div align="center">
   <h3>🚀 "Code, Create, Innovate!" 🔥</h3>
 </div>
+
